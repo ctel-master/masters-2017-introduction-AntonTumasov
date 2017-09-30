@@ -3,7 +3,4 @@
 
 ***
 
-Здесь мы разместим ссылку на первое задание!
-Вот она: https://kodaktor.ru/g/m13092017
-
-
+https://antontumasov.moodlecloud.com/

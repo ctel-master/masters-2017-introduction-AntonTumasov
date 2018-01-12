@@ -1,0 +1,46 @@
+.e-learning-par {
+    font-size: 18px;
+    display: inline-block;
+    font-weight: bold;
+    color:#191919;
+    text-align: start;
+}
+.container-fluid {
+}
+
+.page-header{
+    text-align: center;
+    padding: 5px;
+}
+.heading{
+    text-align: center;
+}
+.col-md-12{
+    background-image: url("../blurred-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-md-4{
+    background-color: cornsilk;
+}
+.carousel-text{
+    font-size: 35px;
+    font-weight: bold;
+    display: block;
+}
+.btn{
+    font-size: 25px;
+}
+.full{
+    color:white;
+    font-size: 18px;
+    display: inline-block;
+    font-weight: bold;
+    text-align: start;
+}
+#e-learning {
+    color: floralwhite
+}
+#history {
+    color: floralwhite;
+}

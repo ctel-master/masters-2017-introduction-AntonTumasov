@@ -1,1 +1,1 @@
-https://antontumasov.moodlecloud.com/
+~https://antontumasov.moodlecloud.com/~
